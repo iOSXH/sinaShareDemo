@@ -12,8 +12,8 @@
 
 #import "SinaWeibo.h"
 
-#define kAppKey             @"3995827080"
-#define kAppSecret          @"f7fe22501ea058d62012a99ed3251831"
+#define kAppKey             @""
+#define kAppSecret          @""
 #define kAppRedirectURL     @"http://www.sina.com"
 
 @implementation AppDelegate
